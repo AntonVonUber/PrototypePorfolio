@@ -1,0 +1,9 @@
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\obj\Debug\UnityVS.Group 3.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\dev\Cohort11-Public\Classes\RPP\assignments\Round 2\Group 3\obj\Debug\Assembly-CSharp-firstpass.pdb

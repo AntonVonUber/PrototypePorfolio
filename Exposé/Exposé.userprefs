@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Exposé.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Cinematics.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnterBrowsingUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TakePhotos.cs" Line="32" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Anthony\Desktop\Exposé\Assets\Scripts\EnterBrowsingUI.cs" line="73" column="1" />
+      <Breakpoint file="C:\Users\Anthony\Desktop\Exposé\Assets\Scripts\EnterBrowsingUI.cs" line="106" column="1" />
+      <Breakpoint file="C:\Users\Anthony\Desktop\Professional Stuff\Prototypes And Covers\Prototypes\Exposé\Assets\Scripts\Cinematics.cs" line="247" column="62" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="..\Perforce\spark_bolta018\project\branches\thinktank\Assets\Games\Friendzy\Scripts\FriendzyGame.cs" line="273" offsetX="548" offsetY="1917" expression="mMenuMessage" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>Assembly-CSharp-firstpass.csproj</String>
+  </DisabledProjects>
+</Properties>

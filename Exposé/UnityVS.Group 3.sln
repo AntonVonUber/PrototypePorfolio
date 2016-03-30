@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Group 3.CSharp", "UnityVS.Group 3.CSharp.csproj", "{7557F131-F3F2-C3BC-4786-D7962A719180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Group 3.CSharp.Plugins", "UnityVS.Group 3.CSharp.Plugins.csproj", "{8FE4A484-3C89-2F55-B365-350A0EDD10ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7557F131-F3F2-C3BC-4786-D7962A719180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7557F131-F3F2-C3BC-4786-D7962A719180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7557F131-F3F2-C3BC-4786-D7962A719180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7557F131-F3F2-C3BC-4786-D7962A719180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE4A484-3C89-2F55-B365-350A0EDD10ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE4A484-3C89-2F55-B365-350A0EDD10ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE4A484-3C89-2F55-B365-350A0EDD10ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE4A484-3C89-2F55-B365-350A0EDD10ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
